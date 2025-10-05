@@ -1,0 +1,7 @@
+ r=3
+ def area_cir(r):
+    pi=3.14
+    R=(pi*r**2)
+    return R
+ a1=area_cir(r)
+ print(a1)
